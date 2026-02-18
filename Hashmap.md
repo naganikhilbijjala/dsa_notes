@@ -11,4 +11,3 @@ class Solution: 
             hashmap[nums[i]] = i 
         return []
 ```
-
